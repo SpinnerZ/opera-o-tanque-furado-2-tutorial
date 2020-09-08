@@ -24,3 +24,11 @@ O DANFE existe para mostrar, de forma sintética, dados da nota fiscal eletrôni
 
 Para que possamos auditar as notas fiscais de abastecimentos pagos com dinheiro público e que foram cuidadosamente escolhidas para a [Operação Tanque Furado 2](https://www.youtube.com/playlist?list=PLEcPUxZXprcohbVBBP4k-R-Z9FYhq6xIQ "Playlist no Youtube da Operação Tanque Furado"), teremos que visualizar a **Nota Fiscal Eletrônica (NF-e)** a partir dos Danfes já selecionados.  
 Em apenas alguns casos não será preciso converter Danfe em NF-e.
+
+> São muitos nomes, mas calma que a sistemática é simples. Usaremos a DANFE para chegar na nota fiscal inteira!
+
+Esta é a Nota Fiscal Eletrônica. A parte que realmente nos interessa:
+
+![Exemplo de NF-e](nf-e.jpg "Exemplo de NF-e")
+
+Vale lembrar que o nosso objetivo é identificar o nome do cliente que deverá estar marcado no cupom fiscal eletrônico
