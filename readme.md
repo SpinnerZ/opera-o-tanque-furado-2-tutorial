@@ -43,4 +43,23 @@ A parte que realmente nos interessa:
 
 **Vale lembrar que o nosso objetivo é identificar o nome do cliente que deverá estar marcado na NFC-e**
 
-## Começando a auditoria
+## Preparando para a auditoria
+
+### Visualizando a NF-e a partir da Danfe
+
+1. Copiar (num bloco de notas ou similar), os 44 dígitos (Chave de acesso) que estão [logo abaixo do código de barras](danfePasso1.jpg "Destaque para a chave de acesso"). **Copie sem espaços**.
+
+2. No [site do Instituto OPS](https://institutoops.org.br/consulta-nfe/), [clique em NOTA FISCAL ELETRÔNICA](danfeSiteOps.jpg "Imagem do site do Instituto OPS") e cole os 44 números da [Chave de Acesso previamente copiados](danfePasso2.jpg "Ilustração das instruções") na página da Receita Federal que irá abrir. Marque a opção "não sou um robô" e clique em continuar.
+
+3. **Mantenha os números dos cupons e notas fiscais em seu computador, pois você precisará deles para encaminhar o caso ao Instituto OPS se houver irregularidade!**
+
+4. A Nota Fiscal Eletrônica [possui informações fiscais](danfePasso3.jpg "Ilustração das informações necessárias") da empresa que a emitiu e de quem a recebeu, organizadas em abas.  
+_Identifique a UF. Vamos precisar dessa informação daqui a pouco._
+
+5. Para visualizarmos os números de cupons fiscais é preciso clicar em [informações adicionais](danfePasso4.jpg "Localização do botão informações adicionais").
+
+6. As chaves de acesso das Notas Fiscais Eletrônicas são identificadas como [Documentos Fiscais Referenciados](danfePasso5.jpg "Localização dos documentos fiscais referenciados"). Cada Chave de Acesso refere-se a um cupom fiscal.
+
+> Numa Nota Fiscal podem ter vários cupons. Por isso deve-se ter cuidado ao pedir várias notas para fiscalizar, pois cada cupom desse deverá ser investigado!
+
+## Vamos iniciar a auditoria
