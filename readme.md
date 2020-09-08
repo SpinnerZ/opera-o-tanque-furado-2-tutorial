@@ -25,10 +25,22 @@ O DANFE existe para mostrar, de forma sintética, dados da nota fiscal eletrôni
 Para que possamos auditar as notas fiscais de abastecimentos pagos com dinheiro público e que foram cuidadosamente escolhidas para a [Operação Tanque Furado 2](https://www.youtube.com/playlist?list=PLEcPUxZXprcohbVBBP4k-R-Z9FYhq6xIQ "Playlist no Youtube da Operação Tanque Furado"), teremos que visualizar a **Nota Fiscal Eletrônica (NF-e)** a partir dos Danfes já selecionados.  
 Em apenas alguns casos não será preciso converter Danfe em NF-e.
 
-> São muitos nomes, mas calma que a sistemática é simples. Usaremos a DANFE para chegar na nota fiscal inteira!
+#### Cupom Fiscal
 
-Esta é a Nota Fiscal Eletrônica. A parte que realmente nos interessa:
+É aquele que comumente recebemos em mercados, padarias e outros comércios mais populares.
+
+![Cupom Fiscal](cupomFiscal.jpg "Exemplo de Cupom Fiscal")
+
+No QR Code, ou logo acima dele tem uma numeração de 44 números que com eles conseguiremos visualizar a NFC-e.
+
+> São muitos nomes, mas calma que a sistemática é simples. Usaremos a DANFE ou Cupom Fiscal para chegar na nota fiscal inteira!
+
+### Esta é a Nota Fiscal Eletrônica.
+
+A parte que realmente nos interessa:
 
 ![Exemplo de NF-e](nf-e.jpg "Exemplo de NF-e")
 
-Vale lembrar que o nosso objetivo é identificar o nome do cliente que deverá estar marcado no cupom fiscal eletrônico
+**Vale lembrar que o nosso objetivo é identificar o nome do cliente que deverá estar marcado na NFC-e**
+
+## Começando a auditoria
