@@ -62,4 +62,22 @@ _Identifique a UF. Vamos precisar dessa informação daqui a pouco._
 
 > Numa Nota Fiscal podem ter vários cupons. Por isso deve-se ter cuidado ao pedir várias notas para fiscalizar, pois cada cupom desse deverá ser investigado!
 
-## Vamos iniciar a auditoria
+## Vamos iniciar a auditoria!
+
+1. Para receber as notas, é só fazer um [simples cadastro no Instituto OPS](https://forms.gle/ANjscV4zNVDGwDc79 "Link para o formulário de inscrição").
+
+2. Após o cadastro, você receberá um e-mail em até 24h com as notas que solicitou.
+
+3. Para cada chave de acesso, [copie-a](auditoria1.jpg "Início da auditoria") **sem espaços**.
+
+4. Novamente no [site do Instituto OPS](https://institutoops.org.br/consulta-nfe/), [clique na UF](auditoria2.jpg "Ilustração do site da OPS") de onde foi emitida a nota fiscal.
+
+5. Na página que se abrir, [cole uma chave de acesso](auditoria3.jpg "Ilustração de onde colar a chave de acesso") **sem espaços**, clique em "não sou um robô" e depois em continuar.
+
+6. Este é o [cupom fiscal eletrônico (NFC-e)](auditoria4.jpg "imagem do cupom fiscal eletrônico"). Observe na aba "consumidor", em nome de quem está o cupom.  
+  - Se estiver em nome de alguma empresa, **BINGO!** A despesa é irregular. Você já pode marcar o cupom como irregular nas suas anotações.
+  - Se estiver em nome do deputado ou de algum de seus funcionários de gabinete, o abastecimento é regular.
+
+> Como saber se o nome que está no cupom é de algum funcionário de gabinete do(a) deputado(a)?  
+Acesse o [site da câmara dos deputados](https://www2.camara.leg.br/deputados/pesquisa), [encontre o campo de pesquisa](auditoria5 "Localização do campo de pesquisa"), insira o nome do deputado e clique em buscar.  
+A tela do perfil do deputado se abrirá. Desça até "Recursos e Benefícios 2020" e [clique no link abaixo dos bonequinhos](auditoria6 "Localização Recursos e Benefícios").
