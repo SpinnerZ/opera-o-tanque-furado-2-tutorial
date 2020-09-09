@@ -47,7 +47,7 @@ A parte que realmente nos interessa:
 
 ### Visualizando a NF-e a partir da Danfe
 
-1. Copiar (num bloco de notas ou similar), os 44 dígitos (Chave de acesso) que estão [logo abaixo do código de barras](/imagens/danfePasso1.jpg "Destaque para a chave de acesso"). **Copie sem espaços**.
+1. Copiar (num bloco de notas ou similar), os 44 dígitos (Chave de acesso) que estão [logo abaixo do código de barras](imagens/danfePasso1.jpg "Destaque para a chave de acesso"). **Copie sem espaços**.
 
 2. No [site do Instituto OPS](https://institutoops.org.br/consulta-nfe/), [clique em NOTA FISCAL ELETRÔNICA](imagens/danfeSiteOps.jpg "Imagem do site do Instituto OPS") e cole os 44 números da [Chave de Acesso previamente copiados](imagens/danfePasso2.jpg "Ilustração das instruções") na página da Receita Federal que irá abrir. Marque a opção "não sou um robô" e clique em continuar.
 
