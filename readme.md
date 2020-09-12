@@ -84,9 +84,9 @@ Se o modelo recebido for [igual ao dessa imagem](imagens/nfe1.jpg "Modelo nota f
 
 ### Como saber se o nome que está no cupom é de algum funcionário de gabinete do(a) deputado(a)?  
 
-1. Acesse o [site da câmara dos deputados](https://www2.camara.leg.br/deputados/pesquisa), [encontre o campo de pesquisa](imagens/auditoria5 "Localização do campo de pesquisa"), insira o nome do deputado e clique em buscar.
+1. Acesse o [site da câmara dos deputados](https://www2.camara.leg.br/deputados/pesquisa), [encontre o campo de pesquisa](imagens/auditoria5.jpg "Localização do campo de pesquisa"), insira o nome do deputado e clique em buscar.
 
-2. A tela do perfil do deputado se abrirá. Desça até "Recursos e Benefícios 2020" e [clique no link abaixo dos bonequinhos](imagens/auditoria6 "Localização Recursos e Benefícios").
+2. A tela do perfil do deputado se abrirá. Desça até "Recursos e Benefícios 2020" e [clique no link abaixo dos bonequinhos](imagens/auditoria6.jpg "Localização Recursos e Benefícios").
 
 3. Tente encontrar na relação "em exercício" e "fora de exercício" o nome que está informado no cupom fiscal.
     + No caso de encontrá-lo em "fora de exercício", observe se o período em que esteve "ativo" coincide com a data de emissão do cupom fiscal.
