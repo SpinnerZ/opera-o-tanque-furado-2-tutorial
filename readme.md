@@ -162,7 +162,7 @@ Ele deverá ser preenchido Para cada nota fiscal auditada, independentemente da 
 
 Se você tiver dúvidas, tente uma das opções:
 
-+ Acesse a [página da operação tanque furado 2](institutoops.org.br/operacao-tanque-furado-2/) e escolha [uma das opções](imagens/ajuda.png)
++ Acesse a [página da operação tanque furado 2](https://institutoops.org.br/operacao-tanque-furado-2/) e escolha [uma das opções](imagens/ajuda.png)
 
 + Entre no [grupo da OPS no Telegram](https://t.me/joinchat/FI-1aRXoGqfcSQWZPoB-vw). Tem um montão de gente lá que poderá lhe auxiliar.
 
