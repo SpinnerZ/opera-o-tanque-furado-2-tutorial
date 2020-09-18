@@ -19,7 +19,7 @@ Não queira fazer auditoria em muitas notas de maneiras "mais ou menos". Faça b
 
 O Instituto OPS selecionou todas as notas fiscais de 2020 que possam conter “cupons de troia”.
 
-Para receber essas notas você precisa [preencher um simples cadastro](imagens/cadastro.png) no [site do Instituto OPS](institutoops.org.br/operacao-tanque-furado-2 "Link do cadastro"). Você receberá um e-mail em até 24h com as notas que solicitou.
+Para receber essas notas você precisa [preencher um simples cadastro](imagens/cadastro.png) no [site do Instituto OPS](https://institutoops.org.br/operacao-tanque-furado-2 "Link do cadastro"). Você receberá um e-mail em até 24h com as notas que solicitou.
 
 ## Conhecendo a Nota Fiscal Eletrônica
 > Objetivo é fazer entender o que é uma Nota Fiscal Eletrônica, como ela é composta e como conseguiremos chegar nas informações que queremos:
@@ -83,7 +83,7 @@ Se o modelo recebido for [igual ao dessa imagem](imagens/nfe1.jpg "Modelo nota f
 
 > Algumas notas fiscais já estão sendo disponibilizadas sem o danfe, o que significa que não precisaremos fazer todo aquele processo para chegar até a nf-e para, somente depois, chegar aos cupons.
 
-1. Se você se deparar com uma nf-e como esta: ![](imagens/possibilidade1-1.png)  
+1. Se você se deparar com uma NF-e como esta: ![](imagens/possibilidade1-1.png)  
 Basta rolar a tela até o final. Você encontrará os [códigos dos cupons](imagens/possibilidade1-2.png).  
 Agora é só seguir os passos que você já aprendeu!
 
@@ -126,7 +126,7 @@ Se há **CNPJ** [NA PRIMEIRA LINHA DO CAMPO **CONSUMIDOR**](imagens/verificacnpj
 
 ### Como eu saberei se o nome que está no cupom é de algum ASSESSOR de deputado(a)?  
 
-Na página da [Operação Tanque Furado 2](https://ops.net.br/deputado-federal/secretario) é só clicar no [botão “ver secretários” correspondente ao parlamentar que você está auditando](imagens/ver-secretario.png).
+Na página da [Operação Tanque Furado 2](https://ops.net.br/deputado-federal/secretario) é só clicar no [botão “ver secretários” correspondente ao parlamentar que você está auditando](imagens/ver-secretarios.png).
 
 ## Enviar o resultado da auditoria
 
