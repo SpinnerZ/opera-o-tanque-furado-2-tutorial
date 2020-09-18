@@ -1,6 +1,12 @@
 # Operação Tanque Furado
 
-## O prazo para entrega da auditoria é PLACEHOLDER
+Esta é a segunda etapa da **Operação Tanque Furado** que vai entender como deputados federais usam dinheiro da verba indenizatória para abastecer veículos.
+
+Os dados levantados nesta operação serão juntados aos já apurados na primeira edição. As irregularidades encontradas serão denunciadas à câmara e o [Instituto OPS](https://institutoops.org.br/ "Site do Instituto OPS") vai exigir a [devolução dos valores aos cofres públicos](https://institutoops.org.br/o-que-ja-fizemos/ "Valor já devolvido pela OPS").
+
+> O colaborador terá uma semana de prazo, a partir do recebimento das notas solicitadas, para retornar com seus resultados.
+
+## O prazo para participação popular é o dia 15 de outubro de 2020
 
 ## Siga as instruções
 Não se trata de um procedimento simples, mas com paciência e tranquilidade será possível auditar todas as notas que você receberá por e-mail.
@@ -8,6 +14,12 @@ Não se trata de um procedimento simples, mas com paciência e tranquilidade ser
 > Vocês receberão a quantidade de notas que vocês solicitarem no site do instituto OPS por e-mail.
 
 Não queira fazer auditoria em muitas notas de maneiras "mais ou menos". Faça bem feito, com bastante cuidado, ainda que isso represente auditar poucas notas.
+
+## Recebendo notas para auditar
+
+O Instituto OPS selecionou todas as notas fiscais de 2020 que possam conter “cupons de troia”.
+
+Para receber essas notas você precisa [preencher um simples cadastro](imagens/cadastro.png) no [site do Instituto OPS](institutoops.org.br/operacao-tanque-furado-2 "Link do cadastro"). Você receberá um e-mail em até 24h com as notas que solicitou.
 
 ## Conhecendo a Nota Fiscal Eletrônica
 > Objetivo é fazer entender o que é uma Nota Fiscal Eletrônica, como ela é composta e como conseguiremos chegar nas informações que queremos:
@@ -17,6 +29,7 @@ Não queira fazer auditoria em muitas notas de maneiras "mais ou menos". Faça b
 Ela é um documento de existência apenas digital, emitido e armazenado eletronicamente, com o intuito de documentar uma operação de circulação de mercadorias ou uma prestação de serviços, ocorrida entre as partes.
 
 #### DANFE
+
 Quando se compra algo pela internet, por exemplo, você recebe um papel como este e que se chama **DANFE**, que significa **Documento Auxiliar da Nota Fiscal Eletrônica**.  
 O DANFE existe para mostrar, de forma sintética, dados da nota fiscal eletrônica que é, como já dissemos, apenas digital.
 
@@ -66,47 +79,96 @@ Se o modelo recebido for [igual ao dessa imagem](imagens/nfe1.jpg "Modelo nota f
 
 > Numa Nota Fiscal podem ter vários cupons. Por isso deve-se ter cuidado ao pedir várias notas para fiscalizar, pois cada cupom desse deverá ser investigado!
 
+### Outras possibilidades de encontrar os códigos dos cupons fiscais
+
+> Algumas notas fiscais já estão sendo disponibilizadas sem o danfe, o que significa que não precisaremos fazer todo aquele processo para chegar até a nf-e para, somente depois, chegar aos cupons.
+
+1. Se você se deparar com uma nf-e como esta: ![](imagens/possibilidade1-1.png)  
+Basta rolar a tela até o final. Você encontrará os [códigos dos cupons](imagens/possibilidade1-2.png).  
+Agora é só seguir os passos que você já aprendeu!
+
+2. Se você se deparar com isso: ![](imagens/possibilidade2-1.png)  
+Não se desespere!  
+Você precisará apenas [localizar os 44 dígitos](imagens/possibilidade2-2.png) para gerar a nota fiscal eletrônica. Para isso, localize o seguinte: **03:00**. Copie os próximos **44 dígitos**.
+    + Depois é só acessar a [página da operação tanque furado 2](https://institutoops.org.br/consulta-nfe), clicar na imagem da NF-e, colar o código copiado e prosseguir com o que você já aprendeu.
+
+3. Se você encontrar isso: ![](imagens/possibilidade3-1.png)  
+Pode correr para o abraço. O site da ops (graças ao fenômeno Vanderlei Denir) já disponibiliza os 44 dígitos e o link para gerar a nota fiscal eletrônica. Daí pra frente você já sabe o que fazer!
+
 ## Vamos iniciar a auditoria!
 
-1. Para receber as notas, é só fazer um [simples cadastro no Instituto OPS](https://forms.gle/ANjscV4zNVDGwDc79 "Link para o formulário de inscrição").
+Agora que você já sabe onde encontrar as chaves dos cupons fiscais nas notas fiscais eletrônicas, vamos começar a auditoria cidadã!
 
-2. Após o cadastro, você receberá um e-mail em até 24h com as notas que solicitou.
+1. Lembra-se das chaves de acesso dos cupons fiscais que vimos há pouco? Pois é... vamos dissecar cada um deles e para isso precisaremos apenas copiá-los em um bloco de notas ou similar.  
+[Copie **SEM ESPAÇOS** a chave do primeiro cupom](imagens/auditoria1.jpg "Início da auditoria").
 
-3. Para cada chave de acesso, [copie-a](imagens/auditoria1.jpg "Início da auditoria") **sem espaços**.
+2. Novamente no [site do Instituto OPS](https://institutoops.org.br/consulta-nfe/), [clique na UF correspondente](imagens/auditoria2.jpg "Ilustração do site da OPS") de onde foi emitida a nota fiscal.
 
-4. Novamente no [site do Instituto OPS](https://institutoops.org.br/consulta-nfe/), [clique na UF](imagens/auditoria2.jpg "Ilustração do site da OPS") de onde foi emitida a nota fiscal.
+3. Chegamos na página da receita estadual, local onde vamos coletar as informações que precisamos.  
+Para isso você deve [colar a chave de acesso no campo específico](imagens/auditoria3.jpg "Ilustração de onde colar a chave de acesso"), clicar em “não sou robô” (ou digite o Captcha que aparecer) e depois clique em Continuar.  
+Lembre-se que estamos falando [dessas chaves de acesso](imagens/chavesdeacesso.png).
 
-5. Na página que se abrir, [cole uma chave de acesso](imagens/auditoria3.jpg "Ilustração de onde colar a chave de acesso") **sem espaços**, clique em "não sou um robô" e depois em continuar.
+> Habemus coupon!
 
-6. Este é o [cupom fiscal eletrônico (NFC-e)](imagens/auditoria4.jpg "imagem do cupom fiscal eletrônico"). Observe na aba "consumidor", em nome de quem está o cupom.  
+4. Este é o [cupom fiscal eletrônico (NFC-e)](imagens/auditoria4.jpg "imagem do cupom fiscal eletrônico"). Agora você precisa observar, na aba “**consumidor**”, o nome que aparece. Além disso, veja quantos abastecimentos estão registrados.
     + Se estiver em nome de alguma empresa, **BINGO!** A despesa é irregular. Você já pode marcar o cupom como irregular nas suas anotações.
-    + Se estiver em nome do deputado ou de algum de seus funcionários de gabinete, o abastecimento é regular.
+> Para saber se é uma Empresa, basta verificar
+Se há **CNPJ** [NA PRIMEIRA LINHA DO CAMPO **CONSUMIDOR**](imagens/verificacnpj.png). _No caso de pessoa física aparecerá CPF_.
 
-### Como saber se o nome que está no cupom é de algum funcionário de gabinete do(a) deputado(a)?  
+    + **Não é comum que haja mais de um abastecimento por cupom fiscal. Se houver mais de 3 abastecimentos** você poderá marcar como irregular.  
+    [Neste exemplo](imagens/verificacnpj.png) há apenas um abastecimento.
 
-1. Acesse o [site da câmara dos deputados](https://www2.camara.leg.br/deputados/pesquisa), [encontre o campo de pesquisa](imagens/auditoria5.jpg "Localização do campo de pesquisa"), insira o nome do deputado e clique em buscar.
+    + **Somente** despesas com **combustíveis e lubrificantes** podem ser pagas com dinheiro da verba indenizatória. Qualquer outro produto constante na nota é despesa irregular.
+    [Neste exemplo](imagens/verificacnpj.png) há apenas gasolina.
 
-2. A tela do perfil do deputado se abrirá. Desça até "Recursos e Benefícios 2020" e [clique no link abaixo dos bonequinhos](imagens/auditoria6.jpg "Localização Recursos e Benefícios").
+    + Somente o deputado e seus assessores podem usufruir do dinheiro público para abastecimentos. Qualquer nome diferente que apareça é uma despesa irregular.  
+    [Neste exemplo](imagens/verificacnpj.png) há o nome de uma empresa.
 
-3. Tente encontrar na relação "em exercício" e "fora de exercício" o nome que está informado no cupom fiscal.
-    + No caso de encontrá-lo em "fora de exercício", observe se o período em que esteve "ativo" coincide com a data de emissão do cupom fiscal.
-    + Se o nome que está no cupom não for do(a) deputado(a) ou de algum de seus funcionários de gabinete, **então você encontrou uma irregularidade**.
+### Como eu saberei se o nome que está no cupom é de algum ASSESSOR de deputado(a)?  
 
-## Enviando denúncia ao iOPS
+Na página da [Operação Tanque Furado 2](https://ops.net.br/deputado-federal/secretario) é só clicar no [botão “ver secretários” correspondente ao parlamentar que você está auditando](imagens/ver-secretario.png).
 
-No [site do instituto](#), preencha o formulário.  
-**Mesmo que você não tenha encontrado qualquer irregularidade, ainda assim será preciso nos informar.**
+## Enviar o resultado da auditoria
 
-### Situações possíveis
+Antes de lhe mostrar como enviar o resultado de sua auditoria precisamos considerar duas possibilidades:
 
-+ Possivelmente **não** há irregularidades
-    + Cupom sem informação do cliente (não há como provar irregularidade)
-    + Não tem qualquer cupom fiscal na NF-e (não há como provar irregularidade)
-    + O cupom fiscal está em nome do(a) deputado(a) ou de algum de seus secretários de gabinete
++ ### Pode não haver irregularidades quando...
 
-+ Há irregularidades
-    + Cupom Fiscal em nome de empresa (qualquer empresa)
-    + Cupom Fiscal em nome de alguém que não seja o(a) deputado(a) ou algum de seus funcionários de gabinete.
+    + O Cupom fiscal não possuir informação do cliente (pode até haver alguma irregularidade na despesa, mas não temos como saber).
+    + O cupom fiscal está em nome do(a) deputado(a) ou de algum de seus secretários de gabinete.
 
-# Agora é colocar em prática
-Em caso de dúvidas. entre no [grupo da OPS no Telegram](https://t.me/joinchat/FI-1aRXoGqfcSQWZPoB-vw). Tem um montão de gente lá que poderá lhe auxiliar.
++ ### Pode haver irregularidades quando...
+
+    + O cupom estiver em nome de empresa
+    + A Nota Fiscal não possuir cupom fiscal
+    + O Cupom Fiscal estiver em nome de alguém que não seja o(a) deputado(a) ou de algum secretário parlamentar
+    + Houver três ou mais despesas com combustível em um único cupom fiscal
+    + O item listado no cupom fiscal não for combustível e/ou lubrificante
+
+
+ Agora que você já é um expert em auditar despesas com combustíveis e lubrificantes pagas com dinheiro da verba indenizatória e já auditou sua primeira nota, é chegada a hora de enviar o resultado para ao instituto ops.
+
+ ### Enviando o resultado da auditoria para o iOPS
+
+ O Instituto OPS preparou um [formulário bastante simples](https://docs.google.com/forms/d/e/1FAIpQLSfiE7kSta-m-B4EZQLan63ExgO2ohxZ12nAU9TJbZOKlgCHgw/viewform) para você enviar seus resultados.
+
+**Mesmo que você não tenha encontrado qualquer irregularidade, ainda assim será preciso enviar seus resultados.**
+
+[O formulário é bem simples](imagens/formularioenvio.png).
+
+Ele deverá ser preenchido Para cada nota fiscal auditada, independentemente da quantidade de cupons.
+
+> Uma nota fiscal, um envio de formulário.
+
+Se você tiver dúvidas, tente uma das opções:
+
++ Acesse a [página da operação tanque furado 2](institutoops.org.br/operacao-tanque-furado-2/) e escolha [uma das opções](imagens/ajuda.png)
+
++ Entre no [grupo da OPS no Telegram](https://t.me/joinchat/FI-1aRXoGqfcSQWZPoB-vw). Tem um montão de gente lá que poderá lhe auxiliar.
+
+## Mãos à obra!
+
+Realização  
+**Instituto OPS**
+
+[Seja um doador](https://institutoops.org.br/apoio)
