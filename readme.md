@@ -148,7 +148,7 @@ Antes de lhe mostrar como enviar o resultado de sua auditoria precisamos conside
 
  Agora que você já é um expert em auditar despesas com combustíveis e lubrificantes pagas com dinheiro da verba indenizatória e já auditou sua primeira nota, é chegada a hora de enviar o resultado para ao instituto ops.
 
- ### Enviando o resultado da auditoria para o iOPS
+### Enviando o resultado da auditoria para o iOPS
 
  O Instituto OPS preparou um [formulário bastante simples](https://docs.google.com/forms/d/e/1FAIpQLSfiE7kSta-m-B4EZQLan63ExgO2ohxZ12nAU9TJbZOKlgCHgw/viewform) para você enviar seus resultados.
 
